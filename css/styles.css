@@ -329,7 +329,6 @@ body {
   margin-right: 8px;
 }
 
-.decor-btn,
 .portfolio-btn:hover,
 .portfolio-btn:focus {
   background-color: #2196f3;
@@ -340,19 +339,6 @@ body {
   color: #ffffff;
 }
 
-.decor-btn:hover,
-.decor-btn:focus {
-  background-color: #2196f3;
-  border: 1px solid #2196f3;
-  box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
-    0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
-}
-
-.decor-btn:active,
-.portfolio-btn:active {
-  background: #2196f3;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-}
 .list {
   list-style: none;
 }
